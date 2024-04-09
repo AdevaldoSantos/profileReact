@@ -12,38 +12,6 @@
     gap: 20px;
 }
 
-.name {
-    display: flex;
-    justify-content: center;
-    border-bottom: 2px solid black;
-    width: 100%;
-    font-family: 'Courier New', Courier, monospace;
-}
-
-.bio {
-    display: flex;
-    justify-content: center;
-    border-bottom: 2px solid black;
-    width: 100%;
-    font-family: 'Courier New', Courier, monospace;
-}
-
-.email {
-    display: flex;
-    justify-content: center;
-    border-bottom: 2px solid black;
-    width: 100%;
-    font-family: 'Courier New', Courier, monospace;
-}
-
-.phone {
-    display: flex;
-    justify-content: center;
-    border-bottom: 2px solid black;
-    width: 100%;
-    font-family: 'Courier New', Courier, monospace;
-}
-
 .btn {
     display: flex;
     flex-direction: column;
@@ -52,25 +20,9 @@
     margin-top: 10px;
 }
 
-a {
-    display: flex;
-    background-color: #00233f;
-    border-radius: 20px;
-    padding: 5px;
-    width: 100%;
-    color: #ffffff;
-    border: 2px solid black;
-    align-items: center;
-    justify-content: center;
-    box-shadow: 0px 0px 5px 2px rgb(0, 0, 0);
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 17px;
-    transition: .3s;
-    position: relative;
-}
+.followButton {
+    margin-left: 1rem;
+    padding: .125rem .5rem;
 
-a:hover {
-    box-shadow: 0px 0px 20px 20px rgba(0, 0, 0, 0);
-    bottom: .10rem;
 }
 

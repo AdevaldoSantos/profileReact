@@ -1,0 +1,10 @@
+.wrapper {   
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+    border-top: 2px solid black;
+    width: 100%;
+    font-family: 'Courier New', Courier, monospace;
+}
